@@ -2,24 +2,24 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mw.chymera.eu
+title: Märzwasser
+subtitle: The Collaborative Literature Framework.
+author: Horea Christian
 simple_search: http://google.com/search
-description:
+description: Märzwasser offers writers the opportunity to build on and improve each other's texts; and literary scientists the opportunity to trace how literary texts emerge - step by step.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
 # Additionally, %o will give you the ordinal representation of the day
-date_format: "ordinal"
+date_format: "%d %B %Y"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: h.chr@mail.ru
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -50,7 +50,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: []
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -73,13 +73,13 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
 googleplus_user:
-googleplus_hidden: false
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: mrzwasser
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-44443205-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
