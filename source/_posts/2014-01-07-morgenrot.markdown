@@ -92,4 +92,4 @@ Offen, aneinandergelegt, unversehrt, makellos, und doch mit Blutströmen und Eis
 -> Das Buch der Wirklichkeit steht immer offen. <-
 
 
-<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/mw/blob/master/source/_posts/2013-12-28-lorem.markdown)!</sup>
+<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/mw/blob/master/source/_posts/2014-01-07-morgenrot.markdown)!</sup>
