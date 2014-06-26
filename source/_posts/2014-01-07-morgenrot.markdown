@@ -3,7 +3,7 @@ layout: post
 title: "Morgenrot"
 date: 2009-06-21 20:10 +0100
 comments: true
-categories: 
+categories: fiction, german
 author: <a rel="author" href="https://plus.google.com/117525803180879614771/posts">Horea Christian</a>
 license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 font: UnifrakturMaguntia
