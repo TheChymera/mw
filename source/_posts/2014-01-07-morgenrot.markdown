@@ -6,6 +6,8 @@ comments: true
 categories: 
 author: <a rel="author" href="https://plus.google.com/117525803180879614771/posts">Horea Christian</a>
 license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+font: UnifrakturMaguntia
+fontsize: 110%
 ---
 
 -> ...dem Lebendigen Geist <-
