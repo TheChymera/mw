@@ -8,7 +8,7 @@ author: <a rel="author" href="http://chymera.eu">Horea Christian</a>
 license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 
-Märzwasser \[mεrtsˈva.s&"\] - the collaborative literature framework - is built to allow authors to improve on each other's literary work.
+Märzwasser \[mɛʁtsˈva.sɐ\] - the collaborative literature framework - is built to allow authors to improve on each other's literary work.
 We strive to bring the benefits of social content creation and free licensing (as seen in the [FOSS](http://en.wikipedia.org/wiki/FOSS) world) to the world of literature.
 Here we clarify a few of the concepts which are fundamental to our framework.
 
