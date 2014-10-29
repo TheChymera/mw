@@ -94,6 +94,3 @@ Als nun das Boot auf dem ſich regenden Gewäſſer lag und ſie endlich ihre m�
 Offen, aneinandergelegt, unverſehrt, makellos, und doch mit Blutſtrömen und Eiſenſplitter entſpiegelt.
 
 -> Das Buch der Wirklichkeit ſteht immer offen. <-
-
-
-<sup>Browse the history of this file *or* find static versions to cite via [its GitHub page](https://github.com/TheChymera/mw/blob/master/source/_posts/2014-01-07-morgenrot.markdown)!</sup>
