@@ -14,5 +14,7 @@ Es war im Sommer, als ich nach langem Studieren anfing durchs Land zu ziehen, da
 Oft hatte ich davor von Zauber und Wunder geleſen - in der Hiſtorie wie auch in der Poeſie - doch dachte ich immer, daſs dieſe Berichte wohl alle erfunden, vorgetäuſcht, oder wahrhaftig aber auch nur ſo ſelten ſeien, wie die monumentalen Geſchehen unſerer Welt, von denen unſereiner nur ſo wenige erleben darf.
 Auch habe ich einſtweil gedacht, daſs vielleicht Zauber und der Wandel der Welt Hand in Hand gingen; doch auch wenn dieſe Vorſtellung zu ihrer Zeit vernünftig geklungen hätte, erfuhr ich an dieſen einem Sommerabend, wie viel anders es um der Magie tatſächlich ſteht.
 
+<!-- more -->
+
 Der Henker, der am Abend, an dem ich in der Stadt ankahm, ſeinem Handwerk nachging - wie ich es erfahren ſollte, ein Zauberer - hatte zur Vergnügung des daſigen Fürſten und der Zuſchauermenge einen bemerkenſwerten Galgen errichtet.
 Vor mir ſtand ein Geflächt aus Holz und Bolzen, welches mehrere Ruten über der Menge hinaufragte - manche ſchienen die Struktur ſchon zu kennen, doch zweifellos würde es der Hinrichtung eine beeindruckende Wirkunf verleihen.
