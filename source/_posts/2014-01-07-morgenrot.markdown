@@ -2,6 +2,7 @@
 layout: post
 title: "Morgenrot"
 date: 2009-06-21 20:10 +0100
+updated: 2014-03-21 01:33:21 +0200
 comments: true
 categories: [fiction, German]
 author: <a rel="author" href="https://plus.google.com/117525803180879614771/posts">Horea Christian</a>
