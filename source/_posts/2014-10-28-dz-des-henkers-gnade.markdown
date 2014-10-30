@@ -19,4 +19,4 @@ Auch habe ich einſtweil gedacht, daſs vielleicht Zauber und der Wandel der Wel
 Der Henker, der am Abend, an dem ich in der Stadt ankahm, ſeinem Handwerk nachging - wie ich es erfahren ſollte, ein Zauberer - hatte zur Vergnügung des daſigen Fürſten und der Zuſchauermenge einen bemerkenſwerten Galgen errichtet.
 Vor mir ſtand ein Geflächt aus Holz und Bolzen, welches mehrere Ruten über der Menge hinaufragte - manche ſchienen die Struktur ſchon zu kennen, doch zweifellos würde es der Hinrichtung eine beeindruckende Wirkunf verleihen.
 
-*[unvollendet]*
+**[unvollendet]**
