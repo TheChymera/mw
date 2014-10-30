@@ -3,7 +3,7 @@ layout: post
 title: "D.Z. - Des Henkers Gnade"
 date: 2014-10-28 23:32:23 +0100
 comments: true
-categories: [Die Zauberer, The Magicians, german, fiction]
+categories: [Die Zauberer, The Magicians, german, fiction, INCOMPLETE]
 author: <a rel="author" href="https://plus.google.com/117525803180879614771/posts">Horea Christian</a>
 license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 font: UnifrakturMaguntia
@@ -18,3 +18,5 @@ Auch habe ich einſtweil gedacht, daſs vielleicht Zauber und der Wandel der Wel
 
 Der Henker, der am Abend, an dem ich in der Stadt ankahm, ſeinem Handwerk nachging - wie ich es erfahren ſollte, ein Zauberer - hatte zur Vergnügung des daſigen Fürſten und der Zuſchauermenge einen bemerkenſwerten Galgen errichtet.
 Vor mir ſtand ein Geflächt aus Holz und Bolzen, welches mehrere Ruten über der Menge hinaufragte - manche ſchienen die Struktur ſchon zu kennen, doch zweifellos würde es der Hinrichtung eine beeindruckende Wirkunf verleihen.
+
+*[unvollendet]*
