@@ -38,4 +38,4 @@ Hätte er noch Atem gefunden, um zu verkünden was er gesehen hatte, hätte es i
 Und so wird wohl vielerlei Zauber abgetan, der schamlos doch ohne Spektakel vorgeht.
 Viele sind wohl oft an der Magie vorbeigelaufen, und selten findet sich einer der über ihre echte bescheidene Natur in aller Ehrfurcht und Ehrlichkeit berichtet.
 
-— gesammelt 18**
+**A n m e r k u n g :** gesammelt 18xx
