@@ -3,7 +3,7 @@ layout: post
 title: "D.Z. - Des Henkers Gnade"
 date: 2014-10-28 22:32:23 +0100
 comments: true
-categories: [Die Zauberer, The Magicians, german, fiction, INCOMPLETE]
+categories: [Die Zauberer, The Magicians, german, fiction]
 author: <a rel="author" href="https://plus.google.com/117525803180879614771/posts">Horea Christian</a>
 license: <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 font: UnifrakturMaguntia
