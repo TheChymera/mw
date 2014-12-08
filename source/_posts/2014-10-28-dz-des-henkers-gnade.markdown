@@ -17,25 +17,25 @@ Auch hatte ich einſtweil gedacht, daſs vielleicht Zauber und der Wandel der We
 <!-- more -->
 
 Der Henker, der am ſpäten leicht windigen Nachmittag, an dem ich in der Stadt ankahm, ſeinem Handwerk nachging - wie ich es erfahren ſollte, ein Zauberer - hatte zur Vergnügung des daſigen Fürſten und der Zuſchauermenge einen bemerkenſwerten Galgen errichtet.
-Vor mir ſtand ein Geflächt aus Holz und Bolzen, welches mehrere Ruten über die Menge hinaufragte; weit oben hingen rauhe ochſengroße Felsbrocken in einem aus flockigem Seil gestrickten Netz, und auf dem ſtaubigen Boden lag die Schlaufe.
-Obgleich einige die Struktur ſchon zu kennen ſchien, ließ die Bewunderung, die Ehrfurcht die der Henker zweifellos verfolgte, und die es dem Fürsten wert machte solch Material zur Verfügung zu stellen, alle verstummen.
+Vor mir ſtand ein Geflächt aus Holz und Bolzen, welches mehrere Ruten über die Menge hinaufragte; weit oben hingen rauhe ochſengroße Felsbrocken in einem aus flockigem Seil geſtrickten Netz, und auf dem ſtaubigen Boden lag die Schlaufe.
+Obgleich einige die Struktur ſchon zu kennen ſchien, ließ die Bewunderung, die Ehrfurcht die der Henker zweifellos verfolgte, und die es dem Fürſten wohl wert machte ſolch Material zur Verfügung zu ſtellen, alle verſtummen.
 
-Es war als ob der Henker in der sich auftuenden Dämmerung durch sein Werk die Atemſeele der Menge zu sich riſs.
-Und schon fand ich es wunderlich, daſs ſich ein Henker noch des lebendigen Geistes seiner Zuschauer bedienen sollte.
+Es war als ob der Henker in der ſich auftuenden Dämmerung durch ſein Werk die Atemſeele der Menge zu ſich riſs.
+Und ſchon fand ich es wunderlich, daſs ſich ein Henker noch des lebendigen Geiſtes ſeiner Zuſchauer bedienen ſollte.
 
-Als der Schatten der Welt sich uns langsam näherte, als dem Verurteilten schon der Strick ums Hals gelegt wurde, vernahm ich einen leichten Schauer.
-Wie von meinem Zucken gerührt tritt der Henker zurück, und fragte ob der Verurteilte noch einen letzten Wunsch hätte.
-Unheimlich streckte sich der Abend über sein Haupt - ich drehte mich zurück, und die Sonne war gerade gedämmert, und da hörte den Mann flehen, er wolle doch noch eine Abenddämmerung erleben dürfen.
-Als ich wieder zum Galgen blickte, und mancher in der Menge schimpfte oder kicherte, sah ich den Henker traurig lächeln, und leicht nicken; sodann zog er an einem Stück Seil, und als die Felsenbrocken herunterkrachte flog der Mann hoch.
+Als der Schatten der Welt ſich uns langſam nahte, als dem Verurteilten ſchon der Strick ums Hals gelegt wurde, vernahm ich einen leichten Schauer.
+Wie von meinem Zucken gerührt tritt der Henker zurück, und fragte ob der Verurteilte noch einen letzten Wunſch hätte.
+Unheimlich ſtreckte ſich der Abend über ſein Haupt - ich drehte mich zurück, und die Sonne war gerade gedämmert, und da hörte den Mann flehen, er wolle doch noch eine Abenddämmerung erleben dürfen.
+Als ich wieder zum Galgen blickte, und mancher in der Menge ſchimpfte oder kicherte, ſah ich den Henker traurig lächeln, und leicht nicken; ſodann zog er an einem Stück Seil, und als die Felsenbrocken herunterkrachten flog der Mann hoch.
 
-Wild würgte er für einen Augenblick, bis er in die Ferne schaute und seine Miene verwundert erstarrte.
-Und als ich in seinen Augen blickte, sah ich das feuerrote Licht des Sonnenuntergangs.
-Eine Illusion hätte genügt um den Sterbenden staunen zu lassen; doch dass das Licht in meinen Augen auch hinenschien ließ keinen Zweifel stehen.
-Ihm wurde eine zweite Dämmerung gekönnt, und es war kein Trug oder Wahnsinn, es war wahrhaftig, es war Zauber.
+Wild würgte er für einen Augenblick, bis er in die Ferne ſchaute und ſeine Miene verwundert erſtarrte.
+Und als ich in ſeinen Augen blickte, ſah ich das feuerrote Licht des Sonnenuntergangs.
+Eine Illuſion hätte genügt um den Sterbenden ſtaunen zu laſſen; doch daſs das Licht in meinen Augen auch hineinſchien ließ keinen Zweifel ſtehen.
+Ihm wurde eine zweite Dämmerung gekönnt, und es war kein Trug oder Wahnſinn, es war wahrhaftig, es war Zauber.
 
-Als der Mann nach wenig Zeit nur noch schlaff hing, war das Licht in seinen Augen wieder erlischt.
-Hätte er noch Atem gefunden, um zu verkünden was er gesehen hatte, hätte es ihm wohl keiner geglaubt; leichte Erklärungen hätten die Menschen zu finden vermocht: das Fegefeuer, die Tollsucht des Sterbenden...
-Und so wird wohl vielerlei Zauber abgetan, der schamlos doch ohne Spektakel vorgeht.
-Viele sind wohl oft an der Magie vorbeigelaufen, und selten findet sich einer der über ihre echte bescheidene Natur in aller Ehrfurcht und Ehrlichkeit berichtet.
+Als der Mann nach wenig Zeit nur noch ſchlaff hing, war das Licht in ſeinen Augen wieder erliſcht.
+Hätte er noch Atem gefunden, um zu verkünden was er geſehen hatte, hätte es ihm wohl keiner geglaubt; leichte Erklärungen hätten die Menſchen zu finden vermocht: das Fegefeuer, die Tollſucht des Sterbenden...
+Und ſo wird wohl vielerlei Zauber abgetan, welcher immer ſchamlos doch ohne Spektakel vorgeht.
+Viele ſind wohl oft an der Zauberei vorbeigelaufen, und ſelten findet ſich einer der über ihre echte beſcheidene Natur in aller Ehrfurcht und Ehrlichkeit berichtet.
 
 **A n m e r k u n g :** gesammelt 18xx
