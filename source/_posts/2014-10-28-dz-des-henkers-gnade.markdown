@@ -26,7 +26,7 @@ Und ſchon fand ich es wunderlich, daſs ſich ein Henker noch des lebendigen Ge
 Als der Schatten der Welt ſich uns langſam nahte, als dem Verurteilten ſchon der Strick ums Hals gelegt wurde, vernahm ich einen leichten Schauer.
 Wie von meinem Zucken gerührt tritt der Henker zurück, und fragte ob der Verurteilte noch einen letzten Wunſch hätte.
 Unheimlich ſtreckte ſich der Abend über ſein Haupt - ich drehte mich zurück, und die Sonne war gerade gedämmert, und da hörte den Mann flehen, er wolle doch noch eine Abenddämmerung erleben dürfen.
-Als ich wieder zum Galgen blickte, und mancher in der Menge ſchimpfte oder kicherte, ſah ich den Henker traurig lächeln, und leicht nicken; ſodann zog er an einem Stück Seil, und als die Felsenbrocken herunterkrachten flog der Mann hoch.
+Als ich wieder zum Galgen blickte, und mancher in der Menge in Antwort auf den Wunſch ſchimpfte, ſah ich den Henker traurig lächeln, und leicht nicken; ſodann zog er an einem Stück Seil, und als die Felsenbrocken herunterkrachten flog der Mann hoch.
 
 Wild würgte er für einen Augenblick, bis er in die Ferne ſchaute und ſeine Miene verwundert erſtarrte.
 Und als ich in ſeinen Augen blickte, ſah ich das feuerrote Licht des Sonnenuntergangs.
